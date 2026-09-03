@@ -16,4 +16,4 @@ A comprehensive GUI task management application built with Java Swing and AWT. T
 ## 🚀 How to Run (Setup)
 1. Clone this repository to your local machine:
    ```bash
-   [https://github.com/mustafamohamed-21/Java-Desktop-To-Do-List/blob/main/Task.java] (https://github.com/mustafamohamed-21/Java-Desktop-To-Do-List/blob/main/ToDoList.java)
+   [https://github.com/mustafamohamed-21/Java-To-Do-List/blob/main/Task.java] (https://github.com/mustafamohamed-21/Java-To-Do-List/blob/main/ToDoList.java)
